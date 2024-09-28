@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Katted";
+    src: local("assets/fonts/Katted.ttf");
+}
+
+body {
+    background-color: #040519;
+}
+h1 {
+    font-family: "Katted";
+    font-weight: 400;
+    font-size: 64px;
+    color: #ffffff;
+    font-optical-sizing: none;
+    -webkit-font-smoothing: none;
+    -moz-osx-font-smoothing: unset;
+    font-smoothing: unset;
+    font-smooth: never;
+    filter: contrast(1);
+}
