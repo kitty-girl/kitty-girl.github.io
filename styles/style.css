@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Katted";
-    src: local("assets/fonts/Katted.ttf");
+    src: url("../assets/fonts/Katted.ttf");
 }
 
 /* images should be on 4x scale */
